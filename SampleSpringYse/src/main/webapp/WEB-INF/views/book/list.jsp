@@ -5,7 +5,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>  
 <html>  
 <head>  
-<title>책 목록</title>  
+<title>책 목록 (list)</title>  
 </head>  
 <body>  
 <h1>책 목록</h1>  
